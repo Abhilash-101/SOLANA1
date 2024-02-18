@@ -1,5 +1,5 @@
 # Solana Project - 1  Wallet Connection
-This is solana challenge-1 for. The script contains an application for demonstrating the connection and  transferring of SOL to a wallet through solana block chain using phantom wallet.
+This is solana project - 1. The script contains an application for demonstrating the connection and  transferring of SOL to a wallet through solana block chain using phantom wallet.
 
 
 ## Getting Started
@@ -26,8 +26,8 @@ This project relies on the following technologies and libraries:
 
 ## Usage
 1. **Create a New Solana Account:** Click the "Create a New Solana Account" button. This will generate a new account, request an airdrop of SOL tokens, and display the created wallet's information.
-2. **Connect Wallet:** Click the "Connect Wallet" button to connect to an existing Phantom wallet. Once connected, you'll be able to transfer tokens and check balances.
-3. **Transfer SOL to New Account:** After creating a new account or connecting a wallet, use the "Transfer SOL to New Account" button to send SOL tokens to the new account.
+2. **Transfer SOL to New Account:** After creating a new account or connecting a wallet, use the "Transfer SOL to New Account" button to send SOL tokens to the new account.
+3. **Connect Wallet:** Click the "Connect Wallet" button to connect to an existing Phantom wallet. Once connected, you'll be able to transfer tokens and check balances.
 4. **Get Wallet Balance:** Click the "Get Wallet Balance" button to check the balance of the currently connected wallet or the new account.
    
 Abhilash Krishnan A
