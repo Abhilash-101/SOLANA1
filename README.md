@@ -1,5 +1,5 @@
 # Solana Project - 1  Wallet Connection
-This is solana project - 1. The script contains an application for demonstrating the connection and  transferring of SOL to a wallet through solana block chain using phantom wallet.
+This is solana project - 1. This includes an application that showcases how to connect and transfer SOL to a wallet via the Solana blockchain using the Phantom wallet.
 
 
 ## Getting Started
